@@ -2,8 +2,6 @@
 
 This repository contains a full data analysis project on a global e-commerce dataset. The primary goal is to clean the data, conduct exploratory data analysis (EDA), and uncover valuable business insights.
 
-The complete analysis, code, visualizations, and business conclusions are available in the [Sales_Analysis.ipynb](Sales_Analysis.ipynb) notebook.
-
 ##  Project Goal
 
 To clean and analyze sales data from a global company (with both physical and online stores) to find actionable insights regarding sales performance, customer behavior, and logistics.
